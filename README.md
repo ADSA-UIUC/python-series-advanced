@@ -1,3 +1,4 @@
+
 # ADSA Spring 2017 Workshop: Advanced Python Workshop
 Advanced Python class using the Jupyter/IPython notebook for the Association of Data Science and Analytics at UIUC.
 
@@ -7,9 +8,8 @@ https://docs.google.com/presentation/d/1BcwId-RtkfJhRpcehult_MCTL1HyIdxKAZsN9I8I
 
 ## Running the Workshop
 * Option 1:
-* Go to this link -> https://notebooks.azure.com/ADSA-Workshops/libraries/ADSA
-* Click the corresponding workshop being presented
-* Sign in with your illinois.edu email
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/adsa-uiuc/python-series-advanced)
+
 
 * Option 2:
 * Click the green "Clone or Download" button in the upper right, and download the zip file for the workshop
