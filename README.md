@@ -8,8 +8,7 @@ https://docs.google.com/presentation/d/1BcwId-RtkfJhRpcehult_MCTL1HyIdxKAZsN9I8I
 
 ## Running the Workshop
 * Option 1:
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/adsa-uiuc/python-series-advanced)
+    [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/adsa-uiuc/python-series-advanced)
 
 * Option 2:
 * Click the green "Clone or Download" button in the upper right, and download the zip file for the workshop
