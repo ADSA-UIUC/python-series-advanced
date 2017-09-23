@@ -1,5 +1,5 @@
 
-# ADSA Fall 2017 Workshop: Advanced Python Workshop
+# ADSA Fall 2017: Advanced Python Workshop
 Advanced Python class using the Jupyter/IPython notebook for the Association of Data Science and Analytics at UIUC.
 
 ## Terminal Tutorial
